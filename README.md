@@ -47,5 +47,3 @@ client.detect(image, imageType, options).then(function(result) {
 
 ![](https://www.gaosong.site/2020/03/19/%E7%99%BE%E5%BA%A6%E4%BA%91%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8BnodeSDK/20200319pic7.jpg)
 
-这个小项目已经上传到了**github**上面：[baiduFace-nodeSDK源码](https://github.com/gs-ux/baiduFace-nodeSDK)。有需要的朋友可以看看。
-
